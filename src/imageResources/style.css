@@ -1,0 +1,9 @@
+#login-button{
+	-fx-background-color: yellow;
+	-fx-text-fill: white;
+}
+
+.labels{
+	-fx-font-size: 16px;
+	-fx-text-fill: yellow;
+}

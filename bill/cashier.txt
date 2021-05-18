@@ -1,0 +1,12 @@
+Bill 
+billName=TV
+ supplier=Samsung
+ billDate=2021-02-08
+ price=650.0
+ quantitySold=1
+Bill 
+billName=pc
+ supplier=DELL
+ billDate=2021-02-02
+ price=450.55
+ quantitySold=1

@@ -1,0 +1,7 @@
+Hello, I am Laura and here you can find the usernames and passwords needed to log in in my project :) .
+
+                         Usernames         Passwords
+
+Log in as cashier:        cashier           cashier
+Log in as manager:        manager           manager
+Log in as admin:          administrator     administrator
